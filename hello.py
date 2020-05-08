@@ -1,3 +1,3 @@
-print("Welocme to Git')
+print("Welocme to Git")
 
-print("Hi from local machine"))
+print("Hi from local machine")
